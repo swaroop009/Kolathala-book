@@ -1,0 +1,6 @@
+{
+  "name": "Kolathala Book",
+  "description": "A digital notebook for tailors to manage customer orders, measurements, payments, and cloth images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
